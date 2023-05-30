@@ -1,4 +1,4 @@
-### Hi there 👋
+### 송기훈
 
 <!--
 **Kihoon9498/Kihoon9498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
