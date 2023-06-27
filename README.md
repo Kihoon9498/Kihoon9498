@@ -3,7 +3,7 @@
 
 1. AI 화상 상담 챗봇 프로젝트
 ---
-  ![image](https://github.com/Kihoon9498/Kihoon9498/assets/121469546/2ce5777b-680f-44bf-8b1f-d05adffbe154)
+![Full_stack](https://github.com/Kihoon9498/Kihoon9498/assets/121469546/cf0a56d5-3c4e-4fa8-9a91-7e89653a46de)
 
 2. 카페 리뷰 분석 프로젝트
 ---
