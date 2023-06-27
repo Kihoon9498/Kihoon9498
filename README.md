@@ -4,6 +4,7 @@
 1. AI 화상 상담 챗봇 프로젝트
 ---
 ![Full_stack](https://github.com/Kihoon9498/Kihoon9498/assets/121469546/cf0a56d5-3c4e-4fa8-9a91-7e89653a46de)
+깃허브 URL : [https://github.com/suted2/AI_video_chatbot](https://github.com/suted2/AI_video_chatbot)
 
 2. 카페 리뷰 분석 프로젝트
 3. 논문 요약 및 음성 변환 프로젝트
