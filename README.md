@@ -1,15 +1,6 @@
 ## 송기훈
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kihoon's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Welcome!%20&descAlignY=51&descAlign=62)
-
-<br>
-
-<p align="center">
-  <br><br>
-  <Strong>📧Email📧</Strong><br>kh2929korea@hanmail.net
-  <br>se6862@gmail.com<br>
-</p>
-
 <br>
 
 <p align="center">
@@ -56,7 +47,11 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 </p>
 
-<br>
+<p align="center">
+  <br>
+  <Strong>📧Email📧</Strong><br>kh2929korea@hanmail.net
+  <br>se6862@gmail.com<br>
+</p>
 
 <div align="center">
     
