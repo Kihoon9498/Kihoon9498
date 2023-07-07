@@ -9,7 +9,6 @@
 항상 배우려는 자세로 학습에 임하고 있습니다.<br>
 배움의 성과뿐만 아니라 과정 또한 중요하게 여기는 개발자가 되기위해 노력하겠습니다.
 </p>
-
 <br>
 
 <p align="center">
@@ -40,7 +39,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </p>
 <p align="center">
-  💡 Used at least once
+  💡 Used at least once <br>
 </p>
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
