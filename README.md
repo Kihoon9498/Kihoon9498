@@ -34,6 +34,8 @@
 
 <p align="center" display="inline-block">
   💡 Cowork Tools <br>
+</p>
+<p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
@@ -48,8 +50,7 @@
 
 <p align="center">
   <br>
-  <Strong>📧Email📧</Strong><br>kh2929korea@hanmail.net
-  <br>se6862@gmail.com<br>
+  <Strong>📧Email📧</Strong> <br> kh2929korea@hanmail.net <br> se6862@gmail.com <br>
 </p>
 
 <div align="center">
